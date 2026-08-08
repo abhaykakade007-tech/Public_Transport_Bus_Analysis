@@ -234,9 +234,9 @@ Through this project, I learned how to:
 
 ## 📚 References
 
-*Kaggle
 * Python Official Documentation
 * Pandas Documentation
+* Kaggle
 * NumPy Documentation
 * Matplotlib Documentation
 * Public Transport Bus Analysis Dataset
