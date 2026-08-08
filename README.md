@@ -2,7 +2,7 @@
 
 ## 📌 Project Title
 
-**Public Transport Bus Analysis using Python**
+**Public Transport Bus Analysis **
 
 ## 📖 Project Overview
 
