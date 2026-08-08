@@ -234,10 +234,13 @@ Through this project, I learned how to:
 
 ## 📚 References
 
+*Kaggle
 * Python Official Documentation
 * Pandas Documentation
 * NumPy Documentation
 * Matplotlib Documentation
 * Public Transport Bus Analysis Dataset
+* AI Assistant
+  
 
 ##
