@@ -764,7 +764,7 @@ Aspiring Data Analyst | Python | Pandas | NumPy | Matplotlib
 
 This project demonstrates practical skills in Python-based data analysis and visualization.
 
-#🏁 Project Status
+# 🏁 Project Status
 Completed ✅
 
 Project Type: Data Analysis
